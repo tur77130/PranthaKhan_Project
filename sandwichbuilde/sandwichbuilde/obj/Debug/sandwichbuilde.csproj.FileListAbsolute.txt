@@ -1,0 +1,11 @@
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\bin\Debug\sandwichbuilde.exe.config
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\bin\Debug\sandwichbuilde.exe
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\bin\Debug\sandwichbuilde.pdb
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.csproj.AssemblyReference.cache
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.Properties.Resources.resources
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.csproj.GenerateResource.cache
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.csproj.CoreCompileInputs.cache
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.exe
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.pdb
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.frmOrder.resources
+C:\Users\prant\OneDrive\Documents\CIS-3309\sandwichbuilde\sandwichbuilde\obj\Debug\sandwichbuilde.frmConfirmation.resources

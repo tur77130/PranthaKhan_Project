@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|c:\\users\\prant\\onedrive\\documents\\cis-3309\\sandwichbuilde\\sandwichbuilde\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\sandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\frmconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\premadesandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\premadesandwich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmconfirmation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\frmconfirmation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9FD308-0C6D-4D51-A800-92238FAE6D2E}|sandwichbuilde\\sandwichbuilde.csproj|solutionrelative:sandwichbuilde\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\frmConfirmation.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.cs",
+              "RelativeToolTip": "sandwichbuilde\\frmConfirmation.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:49:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOrder.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmOrder.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\frmOrder.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmOrder.cs",
+              "RelativeToolTip": "sandwichbuilde\\frmOrder.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv2sAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:32:17.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmOrder.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\frmOrder.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmOrder.cs [Design]",
+              "RelativeToolTip": "sandwichbuilde\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:21:37.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmConfirmation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\frmConfirmation.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.cs [Design]",
+              "RelativeToolTip": "sandwichbuilde\\frmConfirmation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:46:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sandwich.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Sandwich.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\Sandwich.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Sandwich.cs",
+              "RelativeToolTip": "sandwichbuilde\\Sandwich.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:57:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreMadeSandwich.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\PreMadeSandwich.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\PreMadeSandwich.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\PreMadeSandwich.cs",
+              "RelativeToolTip": "sandwichbuilde\\PreMadeSandwich.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:07:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmConfirmation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.Designer.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\frmConfirmation.Designer.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\frmConfirmation.Designer.cs",
+              "RelativeToolTip": "sandwichbuilde\\frmConfirmation.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:19:55.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Order.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\Order.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Order.cs",
+              "RelativeToolTip": "sandwichbuilde\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:58:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Customer.cs",
+              "RelativeDocumentMoniker": "sandwichbuilde\\Customer.cs",
+              "ToolTip": "C:\\Users\\prant\\OneDrive\\Documents\\CIS-3309\\sandwichbuilde\\sandwichbuilde\\Customer.cs",
+              "RelativeToolTip": "sandwichbuilde\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:57:06.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
